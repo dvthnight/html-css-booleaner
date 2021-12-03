@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+
+}
+
+header{
+    background-color: #6495ED;
+    background-image: url("../img2/pattern.png");
+    background-repeat: repeat-x;
+    background-size: 20%;
+    background-position: top;
+    height: 100px;
+}
+
+
+.logo{
+    width: 200px;
+    position: relative;
+    top: 40px;
+}
