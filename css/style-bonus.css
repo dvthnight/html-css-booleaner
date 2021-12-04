@@ -1,0 +1,113 @@
+body{
+    margin-top: 0;
+    
+}
+
+header{
+    background-color: #6495ED;
+    background-image: url("../img2/pattern.png");
+    background-repeat: repeat-x;
+    background-size: 20%;
+    background-position: top;
+    height: 100px;
+}
+
+
+.logo{
+    width: 200px;
+    position: relative;
+    top: 40px;
+}
+
+
+h1{
+    margin-bottom: 0px;
+}
+
+.autore{
+    font-size: 12px;
+    color:grey;
+    margin-bottom: 10px;
+    }
+
+.nome{
+    font-size: 12px;
+    color: deepskyblue;
+}
+
+
+.data{
+    font-size: 10px;
+    color: grey;
+}
+
+.descfoto{
+    font-size: 10px;
+}
+
+.sottolineatura{
+    background-color: yellow;
+}
+
+thead{
+    background-color: #00b8e6;
+    color: white;
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+
+td{
+    width: 50px;
+}
+
+.consfondo{
+    background-color: powderblue;
+}
+
+li{
+    margin-left: -25px;
+}
+
+
+.conclusione{
+    color: grey;
+    margin-bottom: 10px;
+    
+}
+
+.conc1{
+    height: 160px;
+    background-image: url("../img2/monitor.jpg");
+    background-size: 200px 150px;
+    background-repeat: no-repeat;
+    font-weight: bold;
+    color: white;
+    padding: 10px;
+}
+
+
+.conc2{
+    height: 160px;
+    background-image: url("../img2/graph.jpg");
+    background-size: 200px 150px;
+    background-repeat: no-repeat;
+    font-weight: bold;
+    color: white;
+    padding: 10px;
+
+}
+
+
+main{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+footer{
+    margin-left: 100px;
+    margin-right: 100px;
+}
