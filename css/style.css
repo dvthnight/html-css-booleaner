@@ -1,5 +1,5 @@
 body{
-    margin: 0;
+    margin-top: 0;
 
 }
 
@@ -18,3 +18,58 @@ header{
     position: relative;
     top: 40px;
 }
+
+
+h1{
+    margin-bottom: 0px;
+}
+
+.autore{
+    font-size: 12px;
+    color:grey;
+    margin-bottom: 10px;
+    }
+
+.nome{
+    font-size: 12px;
+    color: deepskyblue;
+}
+
+
+.data{
+    font-size: 10px;
+    color: grey;
+}
+
+.descfoto{
+    font-size: 10px;
+}
+
+.sottolineatura{
+    background-color: yellow;
+}
+
+thead{
+    background-color: #00b8e6;
+    color: white;
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+
+td{
+    width: 50px;
+}
+
+.consfondo{
+    background-color: powderblue;
+}
+
+li{
+    margin-left: -25px;
+}
+
+
