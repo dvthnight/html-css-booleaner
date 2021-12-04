@@ -73,3 +73,30 @@ li{
 }
 
 
+.conclusione{
+    color: grey;
+    margin-bottom: 10px;
+    
+}
+
+.conc1{
+    height: 160px;
+    background-image: url("../img2/monitor.jpg");
+    background-size: 200px 150px;
+    background-repeat: no-repeat;
+    font-weight: bold;
+    color: white;
+    padding: 10px;
+}
+
+
+.conc2{
+    height: 160px;
+    background-image: url("../img2/graph.jpg");
+    background-size: 200px 150px;
+    background-repeat: no-repeat;
+    font-weight: bold;
+    color: white;
+    padding: 10px;
+
+}
